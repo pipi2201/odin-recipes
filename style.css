@@ -1,0 +1,36 @@
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 18px;
+    background-color: rgb(240, 130, 57, 0.5);
+    color: rgb(58, 21, 0);
+    margin: 24px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.menu {
+    list-style-position: inside;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#mainheading {color
+    color: rgb(150, 60, 0);
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+h1 {
+    color: rgb(180, 51, 0);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(182, 82, 1);
+}
+
+h2 {
+    color: rgb(128, 47, 0);
+}
